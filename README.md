@@ -50,19 +50,39 @@ Developed a Python script to:
 ---
 ## 📁 Project Structure
 
+```
 superstore-sales-analysis/
 │── report.py
 │── sales_data.csv
 │── dashboard.pbix
 │── output/
-│ ├── monthly_sales.png
-│ ├── category_sales.png
-│ ├── subcategory_sales.png
-│ ├── discount_vs_profit.png
-│ ├── Superstore_Report.xlsx
+│   ├── monthly_sales.png
+│   ├── category_sales.png
+│   ├── subcategory_sales.png
+│   ├── discount_vs_profit.png
+│   ├── Superstore_Report.xlsx
 │── README.md
+```
+
+---
+## 📈 Key Insights
+
+- A few categories contribute significantly to overall revenue
+- Higher discount levels negatively impact profitability
+- Some sub-categories generate high sales but low profit
+- Sales show variation across months indicating seasonal trends
+
+---
+## 🎯 Conclusion
+
+This project demonstrates the ability to transform raw data into actionable business insights using data analysis, visualization, and automation tools.
 
 ---
 
+## 📸 Project Screenshot
+---
+### 📊 Dashboard
 
-## 📁 Project Structure
+<img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/d68a57ac-1308-452c-9c08-b567724a514a" />
+
+---
